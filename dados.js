@@ -6,7 +6,7 @@ let dados = [
         descricao: "<strong>Descrição: </strong>A tundra é um bioma frio e seco, caracterizado por uma paisagem congelada durante a maior parte do ano, com solo permanentemente congelado (permafrost), vegetação rasteira como musgos, líquens, gramíneas e arbustos baixos. A fauna inclui animais adaptados ao frio extremo, como renas, caribus, lebres árticas, raposas-do-ártico e aves migratórias.",
         exemplos: "<strong>Exemplos: </strong>Tundra Ártica (Canadá, Rússia, Alasca), Tundra Antártica (Ilhas subantárticas).",
         curiosidades: "<strong>Curiosidades: </strong>A palavra 'tundra' vem da palavra finlandesa 'tunturi', que significa 'planície sem árvores'. Durante o curto verão, o degelo da camada superficial do solo permite o surgimento de flores coloridas, criando um contraste impressionante na paisagem.",
-        tags: "tundra, frio, animais polares, permafrost, Alasca, Canadá, vegetação rasteira, clima polar, bioma, biomas",
+        tags: "tundra, frio, animais polares, permafrost, Alasca, Canadá, vegetação rasteira, clima polar, bioma, biomas, renas, musgos",
         imagem: "imagens/tundra.jpg",
         link: "https://www.todamateria.com.br/tundra/"
         },
@@ -17,7 +17,7 @@ let dados = [
         descricao: "<strong>Descrição: </strong>Também conhecida como floresta boreal ou floresta de coníferas, a taiga é o maior bioma terrestre. É caracterizada por invernos longos e frios, e verões curtos e úmidos. A vegetação predominante é composta por árvores coníferas, como pinheiros, abetos e lariços, adaptadas ao clima frio e à neve. A fauna inclui animais como alces, ursos pardos, lobos, linces, raposas, esquilos e diversas espécies de aves.",
         exemplos: "<strong>Exemplos: </strong>Taiga da Sibéria (Rússia), Taiga da América do Norte (Canadá, Alasca).",
         curiosidades: "<strong>Curiosidades: </strong>A taiga abriga a maior massa florestal da Terra, armazenando grandes quantidades de carbono e desempenhando um papel crucial na regulação do clima global. O fogo é um elemento natural importante na taiga, ajudando na renovação da floresta.",
-        tags: "taiga, floresta boreal, coníferas, Rússia, Canadá, fauna boreal, bioma, biomas",
+        tags: "taiga, floresta boreal, coníferas, Rússia, Canadá, fauna boreal, bioma, biomas, pinheiros, alces, neve, ursos",
         imagem: "imagens/taiga.jpg",
         link: "https://www.todamateria.com.br/taiga/"
         },
@@ -27,7 +27,7 @@ let dados = [
         descricao: "<strong>Descrição: </strong>As florestas temperadas são caracterizadas por quatro estações bem definidas: primavera, verão, outono e inverno, com temperaturas moderadas e chuvas distribuídas ao longo do ano. A vegetação é composta por árvores decíduas, que perdem suas folhas no outono, como carvalhos, faias, bordos, além de arbustos, ervas e musgos. A fauna é rica e diversificada, com animais como veados, esquilos, raposas, ursos, aves migratórias e insetos.",
         exemplos: "<strong>Exemplos: </strong>A floresta Temperada pode ser encontrada no Leste dos Estados Unidos, Europa Ocidental, China, Japão e Chile.",
         curiosidades: "<strong>Curiosidades: </strong>As cores vibrantes das folhas no outono, antes de caírem, criam um espetáculo visual impressionante nas florestas temperadas. Muitas espécies de animais hibernam durante o inverno para sobreviver ao frio e à escassez de alimento.",
-        tags: "floresta temperada, estações do ano, árvores decíduas, Europa, Japão, China, Chile, biodiversidade, bioma, biomas",
+        tags: "floresta temperada, estações do ano, árvores decíduas, Europa, Japão, China, Chile, biodiversidade, bioma, biomas, cores vibrantes",
         imagem: "imagens/floresta temperada.jpg",
         link: "https://www.todamateria.com.br/floresta-temperada/"
         },
