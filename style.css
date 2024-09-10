@@ -89,7 +89,7 @@ section button {
 
 /* Estiliza cada item de resultado */
 .item-resultado {
-    background: ##363535; /* Cor de fundo dos itens */
+    background: #363535; /* Cor de fundo dos itens */
     border-radius: 0.6rem; /* Borda arredondada */
     padding: 1rem; /* Espaçamento interno */
     margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
