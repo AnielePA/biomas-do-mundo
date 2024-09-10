@@ -20,9 +20,8 @@ Já se perguntou quais são os principais biomas do mundo, ou quais são as cara
 
 **Como usar:**
 
-1. **Clone o repositório:** Use o git clone para baixar todos os arquivos.
-2. **Abra o index.html:** Dê um duplo clique no arquivo index.html para abrir a página no seu navegador.
-3. **Comece a explorar:** Digite o nome de um bioma e veja a magia acontecer!
+1. **Abra o link:** Copie este link: "https://biomas-do-mundo.netlify.app/" e cole no seu navegador para abrir a página.
+2. **Comece a explorar:** Digite o nome de um bioma e veja a magia acontecer!
 
 **Contribuindo:**
 
